@@ -1,4 +1,8 @@
 # vue-demo
+See it here: https://colinw520.github.io/vue-demo/
+
+Questions:
+ - How could I make each table row rendered by its own component? Is this a thing?
 
 ## Project setup
 ```
